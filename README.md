@@ -1,5 +1,5 @@
 # Repository Use
-Welcome to my code repository for NE 571. This repository exists to help me keep track of previous assignments as well as turn in my code.
+Welcome to my code repository for NE 571 Nuclear Reactor Theory at The University of Tennessee Knoxville. This repository exists to help me keep track of previous assignments as well as turn in my code.
 Any code found in this repository is mine alone (i.e., written by referring to original documentation and without the use of LLMs, community forums, or other people) unless state otherwise.
 Feel free to use any code here for your own project.
 
